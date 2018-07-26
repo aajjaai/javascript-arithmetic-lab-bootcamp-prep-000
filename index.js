@@ -34,5 +34,5 @@ function makeInt(a){
 }
 
 function makeInt(){
-   return parseInt(makeInt('sldkjflksjf'))
+   return isNaN(makeInt('sldkjflksjf'))
 }
